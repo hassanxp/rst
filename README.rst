@@ -1,7 +1,5 @@
-.. Intro
-===========
-
-Blah
+Intro
+========
 
 Section
 =======
