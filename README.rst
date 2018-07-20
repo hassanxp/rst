@@ -1,13 +1,17 @@
-Intro
-========
+.. sectnum:
 
-Section
-=======
+Document Title
+==============
+.. contents::
 
-Blah blah
+BlaBla
 
-Subsection
-----------
+First section
+-------------
 
-Blah blah blah
+BlaBla
 
+Second section
+--------------
+
+BlaBla
