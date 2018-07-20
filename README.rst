@@ -4,7 +4,6 @@ Document Title
 ==============
 .. contents::
 
-BlaBla
 
 First section
 -------------
